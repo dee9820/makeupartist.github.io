@@ -1,0 +1,72 @@
+*{
+    scroll-behavior: smooth;
+}
+.navbar{
+    width: 1533px;
+}
+
+.firstsection{
+    width: 96rem;
+}
+
+.accolades{
+    /* flex-wrap: wrap; */
+    width: 96rem;
+}
+.container img{
+    width: 150px;
+    padding: 10px 100px;
+    height: auto;
+}
+.h-primary{
+    font-size: 50px;
+}
+
+#services-container{
+    width: 96rem;
+}
+#services {
+    margin: 34px;
+    display: flex;
+}
+#services .box{
+    border: 2px solid #a6a6a6;
+    padding: 34px;
+    margin: 3px 6px;
+    border-radius: 28px;
+    background: #a6a6a6;
+}
+
+.faqs{
+    width: 90rem;
+}
+.accordion{
+    width: 50%;
+    padding: 1px 37px;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 50px;
+    display: flex;
+    margin: 10px 333px;
+    align-items: center;
+}
+
+.accordion h3{
+    font-size: 30px;
+    margin: 0;
+    padding: 3px 0 0 0;
+    font-weight: normal;
+}
+
+.panel{
+    margin-left: 24rem;
+    margin-right: 24rem;
+}
+
+.panel p{
+    font-size: 2rem;
+}
+
+footer{
+    width: 1533px;
+}

@@ -1,0 +1,107 @@
+
+.nav-list{
+    flex-direction: column;
+}
+
+.navbar {
+    flex-direction: column;
+    transition: all 0.7s ease-out;
+    height: 780px;
+}
+
+.home{
+    flex-direction: column;
+}
+.home li{
+    align-items: center;
+    font-size: 35px;
+}
+
+.rightNav {
+    padding: 0;
+    
+}
+.logo{
+    width: 230px;
+}
+.logo img {
+    width: 230px;
+    border: 2px solid white;
+    border-radius: 50px;
+    margin-left: 0;
+    margin-top: 10px;
+}
+
+.burger{
+    display: block;
+    left: 90rem;
+    top: 30px;
+}
+.h-nav{
+    height: 100px;
+}
+
+.vclassresp{
+    opacity: 0;
+}
+
+.firstsection{
+    flex-direction: column-reverse;
+    width: 95rem;
+}
+
+#services{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+#services .box {
+    height: 500px;
+}
+
+#services .box p {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: white;
+    font-size: 3rem;
+}
+
+.h-secondary {
+    font-size: 3.3rem;
+}
+
+.textsmall{
+    font-size: 3rem;
+}
+
+footer{
+    display: block;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.contact{
+    display: block;
+}
+
+.foot{
+    display: block;
+}
+
+.info{
+    display: flex;
+}
+
+.foot li {
+    list-style: none;
+    padding: 30px 15px;
+    font-size:35px;   
+}
+span{
+    font-size: 38px;
+}
+
+span a{
+    font-size: 29px;
+}
